@@ -5,7 +5,9 @@ A list of useful tools for genome-wide association analysis. Tools mostly develo
 1. [EPACTS](https://genome.sph.umich.edu/wiki/EPACTS) - versatile software pipeline to perform various statistical tests for identifying genome-wide association from sequence data through a user-friendly interface. 
 It includes popular statistical genetics methods like EMMAX, SKAT etc.
 
-2. [gwasTools](https://github.com/ilarsf/gwasTools) - a collection of R scripts for plotting GWAS results (Power plot, Manhattan plot, QQ plot)
+2. [gwasTools](https://github.com/ilarsf/gwasTools) - a fancy collection of R scripts for plotting GWAS results (Power plot, Manhattan plot, QQ plot)
+      * A less fancy & easy-to-use QQ plot code [here](https://genome.sph.umich.edu/wiki/Code_Sample:_Generating_QQ_Plots_in_R).
+      * A less fancy & easy-to-use Manhattan plot code [here](https://genome.sph.umich.edu/wiki/Code_Sample:_Generating_Manhattan_Plots_in_R).
 
 3. [LocusZoom](http://locuszoom.sph.umich.edu/) - a suite of interactive tools to provide fast visualization of GWAS results for research and publication.
 
