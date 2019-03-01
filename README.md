@@ -13,7 +13,7 @@ It includes popular statistical genetics methods like EMMAX, SKAT etc.
 
 4. [METAL](https://genome.sph.umich.edu/wiki/METAL_Documentation) - software for meta-analysis of large datasets (such as several whole genome scans) in a convenient, rapid and memory efficient manner.
 
-5. [RMMLR](http://www.biostat.umn.edu/~saonli/publication.htm) - software for rapid genome-wide gene-based association tests with multiple traits using multivariate multiple linear regression.
+5. [RMMLR](https://github.com/SAONLIB/RMMLR) - software for rapid genome-wide gene-based association tests with multiple traits using multivariate multiple linear regression.
 
 6. [SWISS](https://github.com/welchr/swiss) - software to help identify overlap between association scan results and GWAS hit catalogs.
 It can also be used to obtain a set of independent (LD-pruned) loci from a given set of loci.
